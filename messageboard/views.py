@@ -5,4 +5,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("This is my message board!")
+    return HttpResponse('Welcome to the message board')
